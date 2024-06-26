@@ -1,0 +1,880 @@
+Domain: www.ge.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.marathonpetroleum.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.adm.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.google.com
+Server Response Header: server: gws
+Certificate Issuer: issuer=C=US, O=Google Trust Services, CN=WR2
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.freddiemac.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.pfizer.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Let's Encrypt, CN=E1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.wfscorp.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.macysinc.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.qualcomm.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.oxy.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.emerson.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Google Trust Services LLC, CN=GTS CA 1P5
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.nov.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Let's Encrypt, CN=E1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.raytheon.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.kimberly-clark.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Google Trust Services LLC, CN=GTS CA 1P5
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.abbvie.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Google Trust Services LLC, CN=GTS CA 1P5
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.pbfenergy.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.hollyfrontier.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Let's Encrypt, CN=E5
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.lilly.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Let's Encrypt, CN=E1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.cummins.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Google Trust Services LLC, CN=GTS CA 1P5
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.autonation.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Google Trust Services LLC, CN=GTS CA 1P5
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.tenethealth.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Google Trust Services, CN=WE1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.globalp.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.baxter.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Let's Encrypt, CN=E1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.omnicomgroup.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.wm.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Let's Encrypt, CN=E5
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.chrobinson.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.visa.com
+Server Response Header: Server: cloudflare
+Certificate Issuer: issuer=C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.leucadia.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Google Trust Services LLC, CN=GTS CA 1P5
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.rossstores.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.sempra.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Google Trust Services, CN=WE1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.rsac.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.assurant.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.kiewit.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Let's Encrypt, CN=E5
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.nglenergypartners.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.owens-minor.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.hdsupply.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Let's Encrypt, CN=E1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.cbre.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.masco.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2014 Entrust, Inc. - for authorized use only, CN=Entrust Certification Authority - L1M
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.franklinresources.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Let's Encrypt, CN=E1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.broadcom.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.campbellsoupcompany.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.delekus.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Let's Encrypt, CN=E6
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.borgwarner.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Let's Encrypt, CN=E1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.kkr.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.spartannash.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Google Trust Services LLC, CN=GTS CA 1P5
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.wesco.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Google Trust Services LLC, CN=GTS CA 1P5
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.quantaservices.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Let's Encrypt, CN=E1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.mohawkind.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Google Trust Services, CN=WE1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.blackstone.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.newmont.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Let's Encrypt, CN=E6
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.cmsenergy.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Let's Encrypt, CN=E6
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.wrberkley.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.o-i.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.lkqcorp.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.symantec.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.buckeye.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.ryder.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.dana.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2012 Entrust, Inc. - for authorized use only, CN=Entrust Certification Authority - L1K
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.ncr.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.expeditors.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2012 Entrust, Inc. - for authorized use only, CN=Entrust Certification Authority - L1K
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.anixter.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.kbr.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.edwardjones.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Let's Encrypt, CN=E1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.harley-davidson.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.trin.net
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Let's Encrypt, CN=E1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.drpeppersnapplegroup.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Google Trust Services LLC, CN=GTS CA 1P5
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.allergan.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Google Trust Services LLC, CN=GTS CA 1P5
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.caseys.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.labcorp.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Let's Encrypt, CN=E1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.packagingcorp.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.windstream.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Google Trust Services LLC, CN=GTS CA 1P5
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.pultegroupinc.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Let's Encrypt, CN=E1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.calumetspecialty.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Let's Encrypt, CN=E1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.unitedrentals.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.domtar.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Let's Encrypt, CN=E1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.kellyservices.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2012 Entrust, Inc. - for authorized use only, CN=Entrust Certification Authority - L1K
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.oldrepublic.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Google Trust Services LLC, CN=GTS CA 1P5
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.boozallen.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=BE, O=GlobalSign nv-sa, CN=GlobalSign RSA OV SSL CA 2018
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.amphenol.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Let's Encrypt, CN=E1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.essendant.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Google Trust Services LLC, CN=GTS CA 1P5
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.alleghany.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Let's Encrypt, CN=E6
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.leidos.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Google Trust Services, CN=WE1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.abm.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Google Trust Services LLC, CN=GTS CA 1P5
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.tdsinc.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Let's Encrypt, CN=E6
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.linnenergy.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Let's Encrypt, CN=E1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.flowserve.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Let's Encrypt, CN=E1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.cbrands.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Let's Encrypt, CN=R3
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.clr.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.rushenterprises.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.nexeosolutions.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Let's Encrypt, CN=E1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.roberthalf.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Google Trust Services, CN=WE1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.mdu.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Let's Encrypt, CN=E1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.lamresearch.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.theice.com
+Server Response Header: Server: cloudflare
+Certificate Issuer: issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.cintas.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Google Trust Services LLC, CN=GTS CA 1P5
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.nvrinc.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Google Trust Services LLC, CN=GTS CA 1P5
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.edgewell.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Let's Encrypt, CN=R3
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.lpl.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.greif.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Let's Encrypt, CN=E1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.molsoncoors.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Let's Encrypt, CN=E1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.crestwoodlp.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Let's Encrypt, CN=E5
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.silganholdings.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Let's Encrypt, CN=E1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.genesisenergy.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Google Trust Services LLC, CN=GTS CA 1P5
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.commscope.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2012 Entrust, Inc. - for authorized use only, CN=Entrust Certification Authority - L1K
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.bc.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.caci.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2012 Entrust, Inc. - for authorized use only, CN=Entrust Certification Authority - L1K
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.smartandfinal.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Google Trust Services LLC, CN=GTS CA 1P5
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.pinnaclewest.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.unisys.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2012 Entrust, Inc. - for authorized use only, CN=Entrust Certification Authority - L1K
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.moodys.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2012 Entrust, Inc. - for authorized use only, CN=Entrust Certification Authority - L1K
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.oaktreecapital.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.regalbeloit.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Google Trust Services, CN=WE1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.hei.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.carlisle.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Let's Encrypt, CN=E6
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.worthingtonindustries.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, ST=VA, L=Herndon, O=Network Solutions L.L.C., CN=Network Solutions OV Server CA 2
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.taylormorrison.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Google Trust Services LLC, CN=GTS CA 1P5
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.iff.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Google Trust Services LLC, CN=GTS CA 1P5
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.selectmedicalholdings.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Google Trust Services LLC, CN=GTS CA 1P5
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.wmg.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.tecoenergy.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.sci-corp.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Google Trust Services LLC, CN=GTS CA 1P5
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.regmovies.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Google Trust Services, CN=WE1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.sprouts.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.treehousefoods.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Let's Encrypt, CN=E5
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.archcoal.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.craneco.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.bonton.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Let's Encrypt, CN=R3
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.regeneron.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.west.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Google Trust Services LLC, CN=GTS CA 1P5
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.bench.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Google Trust Services LLC, CN=GTS CA 1P5
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.weismarkets.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Google Trust Services LLC, CN=GTS CA 1P5
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.sandersonfarms.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.pattersoncompanies.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Let's Encrypt, CN=E5
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.tsys.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.watsco.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Let's Encrypt, CN=E1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.servicemaster.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.dstsystems.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Let's Encrypt, CN=E1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.leggmason.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Google Trust Services, CN=WE1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.aarons.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.rangeresources.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.labcorp.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Let's Encrypt, CN=E1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.chicosfas.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.ufpi.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Let's Encrypt, CN=E6
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.cinemark.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.curtisswright.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Google Trust Services, CN=WE1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.tupperwarebrands.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Let's Encrypt, CN=R3
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.albemarle.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.schnitzersteel.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Let's Encrypt, CN=E1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.pricesmart.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Google Trust Services LLC, CN=GTS CA 1P5
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.tetratech.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.enersys.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=DigiCert Inc, OU=www.digicert.com, CN=RapidSSL TLS RSA CA G1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.monsterbevcorp.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Google Trust Services, CN=WE1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.applied.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Google Trust Services, CN=WE1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.mutualofamerica.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Google Trust Services LLC, CN=GTS CA 1P5
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.guess.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.postholdings.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Google Trust Services LLC, CN=GTS CA 1P5
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.ferrellgas.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Google Trust Services LLC, CN=GTS CA 1P5
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.kbhome.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.teledyne.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Google Trust Services, CN=WE1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.transdigm.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Google Trust Services, CN=WE1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.karauctionservices.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Let's Encrypt, CN=E1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.zionsbancorporation.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Let's Encrypt, CN=E5
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.insperity.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2012 Entrust, Inc. - for authorized use only, CN=Entrust Certification Authority - L1K
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.take2games.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Google Trust Services LLC, CN=GTS CA 1P5
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.hhgregg.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Let's Encrypt, CN=R3
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.ciena.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Let's Encrypt, CN=E1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.dyn-intl.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.poolcorp.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Let's Encrypt, CN=E1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.cartech.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Google Trust Services LLC, CN=GTS CA 1P5
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.nationstarmtg.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Google Trust Services LLC, CN=GTS CA 1P5
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.werner.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.hbfuller.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=BE, O=GlobalSign nv-sa, CN=GlobalSign Extended Validation CA - SHA256 - G3
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.rexnord.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Google Trust Services LLC, CN=GTS CA 1P5
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.wasteconnections.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=Let's Encrypt, CN=E1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.universalamerican.com
+Server Response Header: server: Apache
+Certificate Issuer: issuer=C=US, ST=TX, L=Houston, O=cPanel, Inc., CN=cPanel, Inc. Certification Authority
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
+Domain: www.gartner.com
+Server Response Header: server: cloudflare
+Certificate Issuer: issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+TLS Cipher Suite: TLS_AES_256_GCM_SHA384
+
